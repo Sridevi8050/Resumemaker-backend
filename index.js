@@ -13,6 +13,7 @@ app.use(express.json());
 app.use(bodyParser.json());
 
 
+
 const skillKeywords = [
     // Programming Languages
     "java", "javascript", "typescript", "python", "c", "c++", "c#", "kotlin", "go", "ruby", "swift", "rust", "php", "perl", "dart", "scala",
