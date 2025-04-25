@@ -141,5 +141,5 @@ const skillKeywords = [
   
   
   app.listen(PORT, () => {
-    console.log(`✅ Resume Categorizer API running at: http://localhost:${PORT}`);
+    console.log(`✅ Resume Categorizer API running at:${PORT}`);
   });
